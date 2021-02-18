@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Ryan M. Jeong"
 title_separator          : "-"
-subtitle                 : "A blog by Ryan M. Jeong."
+subtitle                 : "A blog by Ryan M. Jeong"
 name                     : "Ryan Munseong Jeong"
-description              : "A blog by Ryan M. Jeong."
+description              : "A blog by Ryan M. Jeong"
 url                      : "https://ryanjeong.github.io"
 baseurl                  : ""
 repository               : "ryanjeong/ryanjeong.github.io" 
@@ -51,8 +51,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -119,7 +119,10 @@ author:
       # url: "https://instagram.com/"
     - label: "BOJ"
       icon: 'fas fa-code'
-      url:  'https://www.acmicpc.net/user/msjeong' # Fill with your acmicpc.net account page
+      url:  'https://www.acmicpc.net/user/msjeong'
+    - label: " Buy Me a Beer"
+      icon: 'fa fa-beer'
+      url:  'https://www.buymeacoffee.com/msjeong'
 
 # Site Footer
 footer:
@@ -277,7 +280,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true

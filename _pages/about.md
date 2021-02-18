@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 last_modified_at: 2021-02-02 17:35:00 +0900
 
+# author_profile: false
+
 toc: false
 ---
 
