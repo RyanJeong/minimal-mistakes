@@ -3,8 +3,9 @@ title: "Ignore Files in your Git Repo."
 # excerpt: ""
 
 categories:
-  - GitHub
+  - Computer
 tags:
+  - GitHub
   - .gitignore
 
 # toc: true 

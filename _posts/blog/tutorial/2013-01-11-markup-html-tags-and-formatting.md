@@ -5,8 +5,10 @@ excerpt: "A variety of common markup showing how the theme styles them."
 categories:
   - Blog
 tags:
-  - Blog
   - Tutorial
+  - HTML
+  - Formatting
+  - Markup
 
 toc: true 
 toc_label: "Table of Contents" 

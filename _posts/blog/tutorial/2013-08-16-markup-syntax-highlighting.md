@@ -5,8 +5,10 @@ excerpt: "Post displaying the various ways one can highlight code blocks with Je
 categories:
   - Blog
 tags:
-  - Blog
   - Tutorial
+  - Syntax
+  - Highlighting
+  - Markup
 
 toc: true 
 toc_label: "Table of Contents"

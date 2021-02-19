@@ -3,9 +3,10 @@ title: "A Program that Prints Itself"
 # excerpt: ""
 
 categories:
-  - Etc.
+  - Computer
 tags:
   - Programming
+  - Etc.
   - C
 
 # toc: true 

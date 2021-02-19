@@ -3,8 +3,9 @@ title: "A way to convert char[] to/from TCHAR[] in C/C++(WinAPI)"
 # excerpt: ""
 
 categories:
-  - Programming
+  - Computer
 tags:
+  - Programming
   - Cpp
   - WinAPI
 
