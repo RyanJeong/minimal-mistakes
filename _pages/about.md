@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About"
-last_modified_at: 2021-02-02 17:35:00 +0900
+last_modified_at: 2021-01-01 17:35:00 +0900
 
 # author_profile: false
 
@@ -20,7 +20,7 @@ I am a developer with 2 years of experience. My main programming language is C, 
 * (2017) B.S. in Computer Engineering. Daejin University.
 
 ### Experiences
-* Researcher, MSOL Edu., March, 2018 - December, 2019<br>
+* Researcher, MSOL Edu., March, 2019 - December, 2020<br>
 (topic: blockchain)
 
 ### Lectures
